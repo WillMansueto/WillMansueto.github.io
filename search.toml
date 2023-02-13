@@ -1,0 +1,53 @@
+[input]
+base_directory = "output"
+html_selector = "main"
+
+[[input.files]]
+path = "database-trends.html"
+url = "/database-trends.html"
+title = "Future trends in databases"
+
+[[input.files]]
+path = "database-optimization.html"
+url = "/database-optimization.html"
+title = "Database optimization techniques"
+
+[[input.files]]
+path = "database-bigdata.html"
+url = "/database-bigdata.html"
+title = "The role of databases in big data"
+
+[[input.files]]
+path = "cloud-database.html"
+url = "/cloud-database.html"
+title = "Cloud-based databases"
+
+[[input.files]]
+path = "database-security.html"
+url = "/database-security.html"
+title = "Database security"
+
+[[input.files]]
+path = "database-normalization.html"
+url = "/database-normalization.html"
+title = "Database normalization"
+
+[[input.files]]
+path = "database-indexing.html"
+url = "/database-indexing.html"
+title = "Indexing in databases"
+
+[[input.files]]
+path = "SQL-NoSQL.html"
+url = "/SQL-NoSQL.html"
+title = "SQL vs NoSQL"
+
+[[input.files]]
+path = "database-history.html"
+url = "/database-history.html"
+title = "The history of databases"
+
+[[input.files]]
+path = "database-basics.html"
+url = "/database-basics.html"
+title = "The basics of databases"
